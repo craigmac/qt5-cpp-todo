@@ -13,6 +13,7 @@ you have them installed).
   * Qt's signal/slots mechanism for event-driven programming
   * Styling UI elements at runtime (strikethrough on text)
   * Inheritance-based memory management (Qt's efforts here mostly,
+  although we explicitly manage in a couple places)
 
 ## Dev-environment details:
 
